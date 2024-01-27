@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/quilt-loader.txt"
-hash = "6a579ca88c54b7d1a12eb9fdcc20f0d713a8914f4a9261e7b09678a128bf0839"
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "3246bb73bfa95570e4ef16c79b283ba595d2f3a3c37f369cd7fc07815f7a179f"
 metafile = true
@@ -42,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "5a3dc749f4f9004a3081b8bb87d17646fa8fa5417051f44c2367fa4a20707758"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "80084941067856fd4758c91fa05aad359f5d1b18991dc58cbf501c8ad921c2b7"
 metafile = true
 
 [[files]]
@@ -97,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/couplings.pw.toml"
 hash = "dc2e5641c46c24ebcebf501fc0b38b04c3005a301b9099de075f14602166d8b5"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "4a2b9a2a43ca3651b5c1a9a93e841283c95c96f5f5feb8262ed9de31e5234aa3"
 metafile = true
 
 [[files]]
@@ -185,6 +191,11 @@ hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
 metafile = true
 
 [[files]]
+file = "mods/expanded-ecosphere.pw.toml"
+hash = "13a478de790fa95c96a2a7665689d14d21babdbe2ad1fdfcb81da7435d3fd302"
+metafile = true
+
+[[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "46e395784097899da3bd80fce9e6442f9eaa39c72af49ed288d1b6044288b8fd"
 metafile = true
@@ -192,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "b1203401ca4f0f1a45f411eb7e070451a1a336bffc79f3a1ec6224e535e04780"
+metafile = true
+
+[[files]]
+file = "mods/fastback.pw.toml"
+hash = "b257615c6f78313e3ed9d344a1ef0d3a846f68fdd662d171d6117e6d8607112c"
 metafile = true
 
 [[files]]
@@ -380,6 +396,11 @@ hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
+file = "mods/no-unused-chunks.pw.toml"
+hash = "b9e9eb380a26a2e7b5c59b25a18e9d77fb4d700c10e8d05bff0c6a65c11ddddf"
+metafile = true
+
+[[files]]
 file = "mods/oneironaut.pw.toml"
 hash = "a8b6c42b612a29a51c1e8e65a48a8a55645c02e46db999e7f7bc4c22fcb7aec4"
 metafile = true
@@ -412,6 +433,26 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "f44c2e138b41270813fc1a1f1516ef44018f6ccfe83828deab77a196f746f5ae"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "2cf6c1638aefe20293f320a409ec6ead2cbd13d7c89a2556a2eca9fdc4e67e5b"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "f42ade06dd4d3ea1804f8414737bf731626872d0cea154ceddc209e818833183"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "f8ff6d00aa5d5443590feeebadc80c410832a09ee8f38c5f415acbc50100b4e0"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-soundphysics.pw.toml"
+hash = "699022f3c6f29cdc0aa6c629f46b087f1b2a65766cf14f1889c8f61c4c83cc9a"
 metafile = true
 
 [[files]]
@@ -457,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "5e37c2458f2f92a16eca8ef74f8bbb82c7e6bd6550eff47fdebfbc608848af74"
 metafile = true
 
 [[files]]
