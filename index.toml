@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "af189a451e6363ae202163737b39b7ef410a541d75a2aa608268b5026d074925"
+hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
 metafile = true
 
 [[files]]
@@ -423,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/mighty-mail-fabric.pw.toml"
 hash = "542916b6b6d30f56848e0ec29ea5ac2669abcdebf1488626eb347261f0fd3b4e"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "ec2e01258ac91cd8a753b776bfe1e01ad7dacfedbbff19fb4eec779bb10cf4aa"
 metafile = true
 
 [[files]]
