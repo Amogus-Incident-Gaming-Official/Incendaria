@@ -46,6 +46,11 @@ hash = "d607c1487fd6296778a954162c33bc9ba04a1f170a6bb454d1a850835dadb9d2"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "7dfb36ec14fa04a295d29faea1f7a8f0ea1863f38f8ebeb0b6b44a34c1e83a10"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "5a3dc749f4f9004a3081b8bb87d17646fa8fa5417051f44c2367fa4a20707758"
 metafile = true
@@ -53,6 +58,16 @@ metafile = true
 [[files]]
 file = "mods/better-combat.pw.toml"
 hash = "80084941067856fd4758c91fa05aad359f5d1b18991dc58cbf501c8ad921c2b7"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "ad157029ae475323c871c8c1f87cc4227e99c646c908dbf934a1814ba11221cd"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "7e20038c6bcc8d636fe707b027c4ea82e02db6ba662f3a372328b37fdd5c245c"
 metafile = true
 
 [[files]]
