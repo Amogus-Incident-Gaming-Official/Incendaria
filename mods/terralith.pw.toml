@@ -1,0 +1,13 @@
+name = "Terralith"
+filename = "Terralith_1.19.3_v2.3.12.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8oi3bsk5/versions/FOe2l0tx/Terralith_1.19.3_v2.3.12.jar"
+hash-format = "sha1"
+hash = "746d0a2b3347d7821d6d81ece69ab07cdc90a8f9"
+
+[update]
+[update.modrinth]
+mod-id = "8oi3bsk5"
+version = "FOe2l0tx"

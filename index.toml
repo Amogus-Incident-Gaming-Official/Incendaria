@@ -641,6 +641,16 @@ hash = "7d4ce0df929ce3534b5b35222a00ee370eb578a7c2acf976a59d6c3614087335"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "ff98fd7419e9444b4d8affb1851f51de78262da256578fd93dd48c77e15bfa39"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "970bd250c0bbd6ce0249c6e5bde09adabda4969e13ead743f684549b31beaace"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
