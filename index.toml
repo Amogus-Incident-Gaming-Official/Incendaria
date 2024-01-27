@@ -41,6 +41,11 @@ hash = "bf2adb4aeefb2c2f68002ff2f74e38c2a1e26b57c65977f12c68ae0a1c7bef0b"
 metafile = true
 
 [[files]]
+file = "mods/astronomical.pw.toml"
+hash = "77f6a0bb8d3af816b0bf91266d577e4eece177a35936e751f84027392112b761"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "d607c1487fd6296778a954162c33bc9ba04a1f170a6bb454d1a850835dadb9d2"
 metafile = true
