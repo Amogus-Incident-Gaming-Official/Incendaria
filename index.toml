@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
+hash = "4366fa7f7e758cebf35306da61b365076d60ebc0f2a718e85da39053bd557eda"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e1b84efda222d3d22b8b683980ef1d089ca015e0d8671cd18f2892f70d4b03e5"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
@@ -98,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/couplings.pw.toml"
 hash = "e9959b342401ffdb0ddae4e9fd151b97a9cb94624d4658daafdac0c17d8bc262"
+metafile = true
+
+[[files]]
+file = "mods/craterlib.pw.toml"
+hash = "43f851bd4c2818a8cf5d48be3a6bcbbd8ce9743f41a629c71fe3737ca93b2b53"
 metafile = true
 
 [[files]]
@@ -216,13 +221,33 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "a38a1991d430fcc5c8e78121b3423e2998041e20dc3fa2e4e574da57f3545f8c"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
+metafile = true
+
+[[files]]
+file = "mods/framework-fabric.pw.toml"
+hash = "75c586caf9e88236a5401d8eede3e5961c9742924724b0b0d881a132cc75e9b3"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "3962cc289af4c636f20748d33729a61f14ddd38d55405a0f4169c8e2133f279f"
+metafile = true
+
+[[files]]
 file = "mods/ftb-ultimine-fabric.pw.toml"
 hash = "f93d5566fdc64e37155f2edab0c5e7147e133b2de1af20c4954c25c2c46203fe"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
+hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
 metafile = true
 
 [[files]]
@@ -331,8 +356,18 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "4e9944ed75707dc4deec44bccb77b9f68300d3a4fb724b1e88c75f23a00d142a"
+metafile = true
+
+[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "0ad3b323ec3990dcc2a04d76040ac39530d1107ff8a76a058e40acdcbe782e47"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "1506e1c8c0c3f7a37255197dd5589723f8976ffbe70d1425a4c8dd26e70d490c"
 metafile = true
 
 [[files]]
@@ -353,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/mediaworks.pw.toml"
 hash = "33721e4553a1e9fac022173b66c2ac59d36a79cfc40881c5ccde3cee2b5354e4"
+metafile = true
+
+[[files]]
+file = "mods/mighty-mail-fabric.pw.toml"
+hash = "542916b6b6d30f56848e0ec29ea5ac2669abcdebf1488626eb347261f0fd3b4e"
 metafile = true
 
 [[files]]
@@ -411,6 +451,11 @@ hash = "a8b6c42b612a29a51c1e8e65a48a8a55645c02e46db999e7f7bc4c22fcb7aec4"
 metafile = true
 
 [[files]]
+file = "mods/open-simple-frames.pw.toml"
+hash = "c06b2570b5c688baab30a8ed9f37e3c623695bf00e0e49edde9148fee296203d"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "862b429a623762ef0469eb2a409b9450a9b70071cf9bffabca654b97f7528424"
 metafile = true
@@ -423,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
+metafile = true
+
+[[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "949f55de09b6ec779988b0f789abeacef1aa15d1c7ea65833cc1df8e70da6b29"
 metafile = true
 
 [[files]]
@@ -451,8 +501,18 @@ hash = "f42ade06dd4d3ea1804f8414737bf731626872d0cea154ceddc209e818833183"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "4a362e60bced90553a9eee9717e1a2b7cc3537b1c16e6ca9f423562062a46b68"
+metafile = true
+
+[[files]]
 file = "mods/powah.pw.toml"
 hash = "f8ff6d00aa5d5443590feeebadc80c410832a09ee8f38c5f415acbc50100b4e0"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
 metafile = true
 
 [[files]]
@@ -488,6 +548,11 @@ metafile = true
 [[files]]
 file = "mods/rp-chat.pw.toml"
 hash = "4baf3272b8b9ef30b15b09df6c7e9c7ecb0c3eba182192286033dbe2c9dbbbb7"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "c69bc6695df349f98155a021995f3f3602f7ef2cbad326929a46b7d80db32d92"
 metafile = true
 
 [[files]]
@@ -527,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "a5a309b6a4086e05148b6627ebf610993d887d95400a591fdcb2b8d5651d9dde"
+hash = "d41931b825536bd673d15537f7bbacd0e5d518b9b5e9fc4ea3631326b636657c"
 metafile = true
 
 [[files]]
