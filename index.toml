@@ -531,6 +531,11 @@ hash = "e4badf81eabfe1f6cd95e36bc8e3d4a63281f7c97406be76437c2ef49e189f99"
 metafile = true
 
 [[files]]
+file = "mods/refinedstorage2.pw.toml"
+hash = "2196526b48d9c3d6c793bfd138518115579172f93c7e1c497e7bf8f2c760dad1"
+metafile = true
+
+[[files]]
 file = "mods/requiem.pw.toml"
 hash = "f3ee2ed045aadd9b00942c517d5b0fbddacee0bccf1a9cadfd03841e043ad155"
 metafile = true
