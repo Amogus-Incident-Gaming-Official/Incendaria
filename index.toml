@@ -11,6 +11,16 @@ hash = "59294d7a05c068127d9365e2c421054c5406296a40b7706db856d7c5f972b6d0"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/ae2wtlib-ae2-style-crafting-terminal.pw.toml"
+hash = "9b9d6b82f23dcf5be86c8f36e8e45621b27fc23948ec08ca562b4c6441785aad"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/the-expansion-resources.pw.toml"
+hash = "f5b7047d33366bca305c935263def829b2273b5161f4ee7ad4706806ec91b50c"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "3246bb73bfa95570e4ef16c79b283ba595d2f3a3c37f369cd7fc07815f7a179f"
 metafile = true
@@ -718,14 +728,4 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
-metafile = true
-
-[[files]]
-file = "resourcepacks/ae2wtlib-ae2-style-crafting-terminal.pw.toml"
-hash = "9b9d6b82f23dcf5be86c8f36e8e45621b27fc23948ec08ca562b4c6441785aad"
-metafile = true
-
-[[files]]
-file = "resourcepacks/the-expansion-resources.pw.toml"
-hash = "f5b7047d33366bca305c935263def829b2273b5161f4ee7ad4706806ec91b50c"
 metafile = true
