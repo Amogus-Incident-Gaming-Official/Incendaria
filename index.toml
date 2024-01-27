@@ -131,6 +131,11 @@ hash = "073adf5044a66982ac0fb424647967ac5731d798f7b856213d10597231a951f0"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "5a4d31825bdd55127b3716eb8eda5bd2e4d06319fa90850db633421a1d922f44"
+metafile = true
+
+[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "c974107e5aca82929bfaf886bcb5cbc646a9fb57def7fcdf7c6dd90ee7d3787f"
 metafile = true
@@ -188,11 +193,6 @@ metafile = true
 [[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
-metafile = true
-
-[[files]]
-file = "mods/expanded-ecosphere.pw.toml"
-hash = "9f653e870f4169f4a751d926a5574b79276d821c9d8ca8f4d084f882260c26d7"
 metafile = true
 
 [[files]]
@@ -588,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "d41931b825536bd673d15537f7bbacd0e5d518b9b5e9fc4ea3631326b636657c"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "b077eceed8adffd07f52209f43e3549f4f3b9324be323d038bca269626620dea"
 metafile = true
 
 [[files]]
