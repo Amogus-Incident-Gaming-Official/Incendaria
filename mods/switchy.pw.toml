@@ -1,6 +1,6 @@
 name = "Switchy"
 filename = "switchy-2.9.0+1.19.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ss0QuCRx/versions/MJR3jzuC/switchy-2.9.0%2B1.19.jar"

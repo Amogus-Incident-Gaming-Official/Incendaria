@@ -1,6 +1,6 @@
 name = "William Wythers' Expanded Ecosphere"
 filename = "WWOO-FABRIC-3.1.9.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/O1XGs7ps/versions/YotfJllH/WWOO-FABRIC-3.1.9.1.jar"

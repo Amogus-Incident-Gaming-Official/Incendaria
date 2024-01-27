@@ -1,6 +1,6 @@
 name = "Switchy Inventories"
 filename = "switchy-inventories-1.8.2+1.19.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZLlbzi9I/versions/QfOTVDPG/switchy-inventories-1.8.2%2B1.19.jar"

@@ -1,6 +1,6 @@
 name = "Fast Backups"
 filename = "fastback-0.7.4+1.19.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZHKrK8Rp/versions/emanm5VA/fastback-0.7.4%2B1.19.2.jar"

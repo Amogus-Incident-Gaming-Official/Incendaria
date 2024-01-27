@@ -1,6 +1,6 @@
 name = "OriginsTweaks"
 filename = "originstweaks-1.15.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/FRBxogjw/versions/RZEV4Fl3/originstweaks-1.15.4.jar"

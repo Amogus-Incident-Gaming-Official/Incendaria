@@ -1,6 +1,6 @@
 name = "Switchy Teleport"
 filename = "switchy-teleport-1.2.5+1.19.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/W1foSJDS/versions/X5OF7hn5/switchy-teleport-1.2.5%2B1.19.2.jar"
