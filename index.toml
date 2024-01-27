@@ -596,11 +596,6 @@ hash = "d41931b825536bd673d15537f7bbacd0e5d518b9b5e9fc4ea3631326b636657c"
 metafile = true
 
 [[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "b077eceed8adffd07f52209f43e3549f4f3b9324be323d038bca269626620dea"
-metafile = true
-
-[[files]]
 file = "mods/switchy-inventories.pw.toml"
 hash = "b7b3080acea13424a7f6301ec97b61eb6fb8b541abc0b43864da3768059e6e86"
 metafile = true
