@@ -1,0 +1,13 @@
+name = "The Expansion"
+filename = "the-expansion-v1.3.1-DATAPACK.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t3qZik6A/versions/OV9qNh4G/the-expansion-v1.3.1-DATAPACK.zip"
+hash-format = "sha1"
+hash = "efb59df345c83db8209eabb37a28a031b9e63378"
+
+[update]
+[update.modrinth]
+mod-id = "t3qZik6A"
+version = "OV9qNh4G"

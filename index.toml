@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/openloader/data/the-expansion.pw.toml"
+hash = "86bd3ddb2266b4434118dc3064f8922d028248bf4eab0ca24780d03f83873fad"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "3246bb73bfa95570e4ef16c79b283ba595d2f3a3c37f369cd7fc07815f7a179f"
 metafile = true
@@ -446,6 +451,11 @@ hash = "a8b6c42b612a29a51c1e8e65a48a8a55645c02e46db999e7f7bc4c22fcb7aec4"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "0a97027a161204a9ce73e5665945c5dea2fa337e284119f3709b4c36d0e31079"
+metafile = true
+
+[[files]]
 file = "mods/open-simple-frames.pw.toml"
 hash = "c06b2570b5c688baab30a8ed9f37e3c623695bf00e0e49edde9148fee296203d"
 metafile = true
@@ -661,6 +671,11 @@ hash = "17d831dc9a5939806f745aadeb8a0b11b0f1c7f587043e0d1aa77f40c76f73b9"
 metafile = true
 
 [[files]]
+file = "mods/yigd.pw.toml"
+hash = "36bc57806a6d997d79767620bc3f0b019e878f337a2655b9cb98a006c4e5d2e8"
+metafile = true
+
+[[files]]
 file = "mods/yttr.pw.toml"
 hash = "96d260faf47b17a4ab9d61d71b82e40126d232c2abf4862240e8c856a166b92c"
 metafile = true
@@ -673,4 +688,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/ae2wtlib-ae2-style-crafting-terminal.pw.toml"
 hash = "9b9d6b82f23dcf5be86c8f36e8e45621b27fc23948ec08ca562b4c6441785aad"
+metafile = true
+
+[[files]]
+file = "resourcepacks/the-expansion-resources.pw.toml"
+hash = "f5b7047d33366bca305c935263def829b2273b5161f4ee7ad4706806ec91b50c"
 metafile = true

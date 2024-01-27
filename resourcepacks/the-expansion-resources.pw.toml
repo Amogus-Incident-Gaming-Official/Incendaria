@@ -1,0 +1,13 @@
+name = "The Expansion Resources"
+filename = "the-expansion-v1.3-RESOURCEPACK.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BlqZZj88/versions/VperjMCY/the-expansion-v1.3-RESOURCEPACK.zip"
+hash-format = "sha1"
+hash = "25ec1b2c6c6b4ac1995fd5946075b9cac5ab3d57"
+
+[update]
+[update.modrinth]
+mod-id = "BlqZZj88"
+version = "VperjMCY"
