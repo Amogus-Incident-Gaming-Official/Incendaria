@@ -6,6 +6,11 @@ hash = "86bd3ddb2266b4434118dc3064f8922d028248bf4eab0ca24780d03f83873fad"
 metafile = true
 
 [[files]]
+file = "config/openloader/data/windrunner.pw.toml"
+hash = "59294d7a05c068127d9365e2c421054c5406296a40b7706db856d7c5f972b6d0"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "3246bb73bfa95570e4ef16c79b283ba595d2f3a3c37f369cd7fc07815f7a179f"
 metafile = true
