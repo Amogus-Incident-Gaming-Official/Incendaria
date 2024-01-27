@@ -729,3 +729,8 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
+
+[[files]]
+file = "resourcepacks/the-expansion-resources.pw.toml"
+hash = "0ec48b4896ed146ddc782a54d0a0d69a3e8a54880092a8497b029aa3b454165f"
+metafile = true
