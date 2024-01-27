@@ -166,11 +166,6 @@ hash = "073adf5044a66982ac0fb424647967ac5731d798f7b856213d10597231a951f0"
 metafile = true
 
 [[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "5a4d31825bdd55127b3716eb8eda5bd2e4d06319fa90850db633421a1d922f44"
-metafile = true
-
-[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "c974107e5aca82929bfaf886bcb5cbc646a9fb57def7fcdf7c6dd90ee7d3787f"
 metafile = true
