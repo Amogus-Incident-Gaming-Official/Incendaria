@@ -1,0 +1,13 @@
+name = "OriginsTweaks"
+filename = "originstweaks-1.15.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/FRBxogjw/versions/RZEV4Fl3/originstweaks-1.15.4.jar"
+hash-format = "sha1"
+hash = "6a094fe8e22baf0ecbd62d6bbb8f47e505268316"
+
+[update]
+[update.modrinth]
+mod-id = "FRBxogjw"
+version = "RZEV4Fl3"

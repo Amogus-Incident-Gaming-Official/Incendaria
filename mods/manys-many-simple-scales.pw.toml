@@ -1,0 +1,13 @@
+name = "Many's Many Simple Scales"
+filename = "manys-many-simple-scales-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GzoDCMAk/versions/4GLuLeuc/manys-many-simple-scales-1.0.1.jar"
+hash-format = "sha1"
+hash = "7e5eb6078999c28726741c1dae298085afbd94f1"
+
+[update]
+[update.modrinth]
+mod-id = "GzoDCMAk"
+version = "4GLuLeuc"

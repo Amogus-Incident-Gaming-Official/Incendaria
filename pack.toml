@@ -1,12 +1,12 @@
-name = "Incendaria"
-author = "Verbina29 & The AIGO Team"
+name = "incendaria"
+author = "AIGO Members"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7b81c9e9d9e6e21a9865a2dded0dfd77e7683d679b98fe5b0114eaed9a31f17e"
+hash = "9da13059df1860aeed1255f9736923894034d317df3748e960e81db6ff4d6fd4"
 
 [versions]
 minecraft = "1.19.2"

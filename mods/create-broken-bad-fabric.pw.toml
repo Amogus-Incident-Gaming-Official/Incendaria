@@ -1,0 +1,13 @@
+name = "Create: Broken Bad [Fabric Port]"
+filename = "createbb-1.19.2-3.1.2-v2-FABRIC.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22ef1e6c200156e127091687b2cab31cdd93397a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4869769
+project-id = 927997

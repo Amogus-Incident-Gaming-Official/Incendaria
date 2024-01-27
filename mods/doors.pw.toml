@@ -1,0 +1,13 @@
+name = "More Doors"
+filename = "more-doors-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6fRQa2pB/versions/OwD72MkL/more-doors-1.19.2.jar"
+hash-format = "sha1"
+hash = "b8ae3c0e8748b2bfea6aaac791d22e7b009c4f1a"
+
+[update]
+[update.modrinth]
+mod-id = "6fRQa2pB"
+version = "OwD72MkL"

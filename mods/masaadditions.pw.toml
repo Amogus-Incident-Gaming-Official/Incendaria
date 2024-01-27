@@ -1,0 +1,13 @@
+name = "MasaAdditions"
+filename = "masaadditions-1.2.0+1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TqMQMRWd/versions/Bg681X30/masaadditions-1.2.0%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "0843b804a9612933dd8ef65c5a1d4070dece879d"
+
+[update]
+[update.modrinth]
+mod-id = "TqMQMRWd"
+version = "Bg681X30"

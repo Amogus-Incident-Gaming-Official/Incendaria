@@ -1,0 +1,13 @@
+name = "Oneironaut"
+filename = "oneironaut-fabric-1.19.2-0.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HfBEa4fW/versions/kAGCknUd/oneironaut-fabric-1.19.2-0.2.3.jar"
+hash-format = "sha1"
+hash = "0c51e18396c2285416a403aaffa8baf72eb0138e"
+
+[update]
+[update.modrinth]
+mod-id = "HfBEa4fW"
+version = "kAGCknUd"

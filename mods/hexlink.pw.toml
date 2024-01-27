@@ -1,0 +1,13 @@
+name = "Hexlink"
+filename = "hexlink-2.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1xOBKCjv/versions/eOnUv8CT/hexlink-2.2.4.jar"
+hash-format = "sha1"
+hash = "9efafc00293077c2fff74212e652bd1b3b30807e"
+
+[update]
+[update.modrinth]
+mod-id = "1xOBKCjv"
+version = "eOnUv8CT"

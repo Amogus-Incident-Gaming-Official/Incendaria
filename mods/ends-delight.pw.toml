@@ -1,0 +1,13 @@
+name = "End's Delight"
+filename = "ends_delight-fabric-1.19.2-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yHN0njMr/versions/WmpfuDnG/ends_delight-fabric-1.19.2-1.0.jar"
+hash-format = "sha1"
+hash = "4a03b88234b958bf86598bb2891064e4a2086bf2"
+
+[update]
+[update.modrinth]
+mod-id = "yHN0njMr"
+version = "WmpfuDnG"

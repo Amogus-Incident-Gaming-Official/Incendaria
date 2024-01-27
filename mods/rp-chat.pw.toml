@@ -1,0 +1,13 @@
+name = "RPChat"
+filename = "rpchat-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/6mTNoVvi/versions/3bUnVbNn/rpchat-1.0.0.jar"
+hash-format = "sha1"
+hash = "9b13eeafcf4cdadb907797e04ade03cb9fedff39"
+
+[update]
+[update.modrinth]
+mod-id = "6mTNoVvi"
+version = "3bUnVbNn"
