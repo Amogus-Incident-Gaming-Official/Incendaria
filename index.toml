@@ -5,11 +5,6 @@ file = "config/bclib/client.json"
 hash = "9695d0d094fcadbe6780d53e0bbaae4a100fb1c87fdb32b18fd1b5e4c4e6d069"
 
 [[files]]
-file = "config/openloader/data/birdlife.pw.toml"
-hash = "b955fd5bf59e318b2d968ee3fcb12519398e3993472fe9892ec992b8f949d460"
-metafile = true
-
-[[files]]
 file = "config/openloader/data/windrunner.pw.toml"
 hash = "59294d7a05c068127d9365e2c421054c5406296a40b7706db856d7c5f972b6d0"
 metafile = true
@@ -86,6 +81,11 @@ metafile = true
 [[files]]
 file = "mods/bewitchment.pw.toml"
 hash = "009e6df0c8b7b8a4b66482c7ab57b1a3da548c408fba321ddb1569d6cb4fae25"
+metafile = true
+
+[[files]]
+file = "mods/birdlife.pw.toml"
+hash = "bbf9fb46569ced97a129bde49072b71832e695a58102b35a3ae148414b0ca78b"
 metafile = true
 
 [[files]]
