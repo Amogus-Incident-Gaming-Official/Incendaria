@@ -1,7 +1,0 @@
-name = "windrunner"
-filename = "Windrunner_1.19.2.zip"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/1200092213695225937/1200834412594593893/Windrunner_1.19.2.zip"
-hash-format = "sha256"
-hash = "8982ce57e9d8b3786c2acec73225360ff63db569a94773691c4c67db903bdf96"

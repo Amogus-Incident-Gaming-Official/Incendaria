@@ -5,16 +5,6 @@ file = "config/bclib/client.json"
 hash = "9695d0d094fcadbe6780d53e0bbaae4a100fb1c87fdb32b18fd1b5e4c4e6d069"
 
 [[files]]
-file = "config/openloader/data/windrunner.pw.toml"
-hash = "59294d7a05c068127d9365e2c421054c5406296a40b7706db856d7c5f972b6d0"
-metafile = true
-
-[[files]]
-file = "config/openloader/resources/ae2wtlib-ae2-style-crafting-terminal.pw.toml"
-hash = "9b9d6b82f23dcf5be86c8f36e8e45621b27fc23948ec08ca562b4c6441785aad"
-metafile = true
-
-[[files]]
 file = "config/yttr.css"
 hash = "7fa409788ee8921be343733be60a4d8f9863d8e1ec9ef618854a5665adbff7ba"
 
@@ -491,11 +481,6 @@ metafile = true
 [[files]]
 file = "mods/oneironaut.pw.toml"
 hash = "a8b6c42b612a29a51c1e8e65a48a8a55645c02e46db999e7f7bc4c22fcb7aec4"
-metafile = true
-
-[[files]]
-file = "mods/open-loader.pw.toml"
-hash = "0a97027a161204a9ce73e5665945c5dea2fa337e284119f3709b4c36d0e31079"
 metafile = true
 
 [[files]]
