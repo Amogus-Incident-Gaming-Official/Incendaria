@@ -1,0 +1,7 @@
+name = "birdlife"
+filename = "birdlife.zip"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1076341167240781866/1201200518219976785/birdlife.zip"
+hash-format = "sha256"
+hash = "f70e40ce622e74ec4a96a8a68b2f3f09edb28173ffef7341e3d5ac100f647316"
