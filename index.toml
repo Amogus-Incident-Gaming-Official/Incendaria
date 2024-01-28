@@ -84,11 +84,6 @@ hash = "009e6df0c8b7b8a4b66482c7ab57b1a3da548c408fba321ddb1569d6cb4fae25"
 metafile = true
 
 [[files]]
-file = "mods/birdlife.pw.toml"
-hash = "bbf9fb46569ced97a129bde49072b71832e695a58102b35a3ae148414b0ca78b"
-metafile = true
-
-[[files]]
 file = "mods/bits-and-chisels.pw.toml"
 hash = "e7d7b42cc3b56d79d18599f936742b711f849b372ca4b6106a5d00d624573d59"
 metafile = true
