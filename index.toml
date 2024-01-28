@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bclib/client.json"
+hash = "9695d0d094fcadbe6780d53e0bbaae4a100fb1c87fdb32b18fd1b5e4c4e6d069"
+
+[[files]]
 file = "config/openloader/data/windrunner.pw.toml"
 hash = "59294d7a05c068127d9365e2c421054c5406296a40b7706db856d7c5f972b6d0"
 metafile = true
@@ -9,6 +13,10 @@ metafile = true
 file = "config/openloader/resources/ae2wtlib-ae2-style-crafting-terminal.pw.toml"
 hash = "9b9d6b82f23dcf5be86c8f36e8e45621b27fc23948ec08ca562b4c6441785aad"
 metafile = true
+
+[[files]]
+file = "config/yttr.css"
+hash = "7fa409788ee8921be343733be60a4d8f9863d8e1ec9ef618854a5665adbff7ba"
 
 [[files]]
 file = "mods/ae2.pw.toml"
@@ -38,11 +46,6 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "bf2adb4aeefb2c2f68002ff2f74e38c2a1e26b57c65977f12c68ae0a1c7bef0b"
-metafile = true
-
-[[files]]
-file = "mods/astronomical.pw.toml"
-hash = "77f6a0bb8d3af816b0bf91266d577e4eece177a35936e751f84027392112b761"
 metafile = true
 
 [[files]]
@@ -333,6 +336,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/inmis.pw.toml"
+hash = "03b5a1c4ccb830942b640e9ca15862800530815ae35b6223bf520d15270f8166"
 metafile = true
 
 [[files]]

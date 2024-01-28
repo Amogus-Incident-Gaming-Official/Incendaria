@@ -1,0 +1,13 @@
+name = "Inmis"
+filename = "inmis-2.7.1-1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I0UYcPa0/versions/X9DLrgl1/inmis-2.7.1-1.19.jar"
+hash-format = "sha1"
+hash = "97be0765261b1356e83c4d1a1421fd9a6e88237d"
+
+[update]
+[update.modrinth]
+mod-id = "I0UYcPa0"
+version = "X9DLrgl1"
