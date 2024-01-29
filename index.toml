@@ -9,6 +9,11 @@ file = "config/yttr.css"
 hash = "7fa409788ee8921be343733be60a4d8f9863d8e1ec9ef618854a5665adbff7ba"
 
 [[files]]
+file = "mods/accurate-block-placement.pw.toml"
+hash = "d2b9f3730a36ac2fb8febbd49f488175958bd52ddeb48f46f4342a9191aaca75"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "3246bb73bfa95570e4ef16c79b283ba595d2f3a3c37f369cd7fc07815f7a179f"
 metafile = true
@@ -36,6 +41,11 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "bf2adb4aeefb2c2f68002ff2f74e38c2a1e26b57c65977f12c68ae0a1c7bef0b"
+metafile = true
+
+[[files]]
+file = "mods/azuredooms-angel-ring.pw.toml"
+hash = "58f9f1b54186f194e3c8d21aeaecca5834ce0721766953ed87906735cefbea84"
 metafile = true
 
 [[files]]
@@ -100,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "19276358b66db4b71d534bb7024a82dbf2bef87a95b604319c45fbfa82f5e24f"
 metafile = true
 
 [[files]]
@@ -249,6 +259,11 @@ hash = "a38a1991d430fcc5c8e78121b3423e2998041e20dc3fa2e4e574da57f3545f8c"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "b9c242762cf8567b78e9b320d1b9ea51cac86a6a68f00dd602e2ebb19a9a477c"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
@@ -344,6 +359,11 @@ hash = "7fffcce3f4ed60a994d0acc0c18ebcf87fa10778a13913ba23340847acbea581"
 metafile = true
 
 [[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "943432a0cef972de0e65eb7fa21634100f98de17b3f644b7ff8a8428ab9d17c0"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "14e50c7cd16b4650d3a491f5f31bc00af6be0c290734db9552852ab1de9bc3bb"
 metafile = true
@@ -389,6 +409,11 @@ hash = "4e9944ed75707dc4deec44bccb77b9f68300d3a4fb724b1e88c75f23a00d142a"
 metafile = true
 
 [[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "70fd6405f34b01b503b5aa10176a5f011c963290e75b23aa9b9d19e3bc1dc177"
+metafile = true
+
+[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "0ad3b323ec3990dcc2a04d76040ac39530d1107ff8a76a058e40acdcbe782e47"
 metafile = true
@@ -431,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/mob-lassos.pw.toml"
+hash = "9261002cebf9b3938853807bee559157e17fe597e7c597166acd65489ccce1a9"
 metafile = true
 
 [[files]]
@@ -545,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
+hash = "a7a2599342362f2240a4f1fee7f090d9920a3af4c7937fc6237787e7e0aa05d0"
 metafile = true
 
 [[files]]
@@ -560,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
+hash = "a20da06b37ff4fd62465247f42a5a63f5ca507e081e50a97b52bf7afb69135dc"
 metafile = true
 
 [[files]]
