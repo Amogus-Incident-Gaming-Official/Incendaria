@@ -464,11 +464,6 @@ hash = "9261002cebf9b3938853807bee559157e17fe597e7c597166acd65489ccce1a9"
 metafile = true
 
 [[files]]
-file = "mods/moborigins.pw.toml"
-hash = "564e6c99f196b85c10e313d99d24a010a40efa7272ee4be34f8fde0cbd3a94e9"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "77c8b976aed1fe40c5677e607a98860455bfb21fd7fb8559ccf60a96b5f99f87"
 metafile = true
