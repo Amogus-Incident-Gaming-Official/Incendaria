@@ -259,11 +259,6 @@ hash = "a38a1991d430fcc5c8e78121b3423e2998041e20dc3fa2e4e574da57f3545f8c"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "b9c242762cf8567b78e9b320d1b9ea51cac86a6a68f00dd602e2ebb19a9a477c"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
@@ -359,8 +354,8 @@ hash = "7fffcce3f4ed60a994d0acc0c18ebcf87fa10778a13913ba23340847acbea581"
 metafile = true
 
 [[files]]
-file = "mods/inventory-management.pw.toml"
-hash = "943432a0cef972de0e65eb7fa21634100f98de17b3f644b7ff8a8428ab9d17c0"
+file = "mods/inventory-sorting.pw.toml"
+hash = "9cabfc450a6277ea25d4b208013859aa59e44c063bc1aa26bce450616faf737c"
 metafile = true
 
 [[files]]
@@ -461,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/mob-lassos.pw.toml"
 hash = "9261002cebf9b3938853807bee559157e17fe597e7c597166acd65489ccce1a9"
+metafile = true
+
+[[files]]
+file = "mods/moborigins.pw.toml"
+hash = "564e6c99f196b85c10e313d99d24a010a40efa7272ee4be34f8fde0cbd3a94e9"
 metafile = true
 
 [[files]]
