@@ -34,6 +34,11 @@ hash = "f81eee12bda0e0058f82ae92b342028aaa45a2bc2df46b8506cbee377e155089"
 metafile = true
 
 [[files]]
+file = "mods/apugli.pw.toml"
+hash = "ddcb2e725e18419bb63dfd569eff90fd09b293d8898f64c29dad46f128919f94"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4366fa7f7e758cebf35306da61b365076d60ebc0f2a718e85da39053bd557eda"
 metafile = true
@@ -439,6 +444,11 @@ hash = "33721e4553a1e9fac022173b66c2ac59d36a79cfc40881c5ccde3cee2b5354e4"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "9421355a24881292851803d45726a5aebce4c5a5863793d7d373565b4fceb1eb"
+metafile = true
+
+[[files]]
 file = "mods/mighty-mail-fabric.pw.toml"
 hash = "542916b6b6d30f56848e0ec29ea5ac2669abcdebf1488626eb347261f0fd3b4e"
 metafile = true
@@ -585,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "a20da06b37ff4fd62465247f42a5a63f5ca507e081e50a97b52bf7afb69135dc"
+hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
 metafile = true
 
 [[files]]
@@ -701,6 +711,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "970bd250c0bbd6ce0249c6e5bde09adabda4969e13ead743f684549b31beaace"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone-fabric.pw.toml"
+hash = "c0ce7cf24c1268933e38fe5cd07ddf7078964e47e0cf1ccaef37c95cf1e97682"
 metafile = true
 
 [[files]]
