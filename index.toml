@@ -239,6 +239,11 @@ hash = "46e395784097899da3bd80fce9e6442f9eaa39c72af49ed288d1b6044288b8fd"
 metafile = true
 
 [[files]]
+file = "mods/extra-origins.pw.toml"
+hash = "2d529ef5a4753d8c71c845bc8b5570c5a9a63b3d2449643c4590fd57ac23ed16"
+metafile = true
+
+[[files]]
 file = "mods/fabric-simple-animated-guns.pw.toml"
 hash = "5bb7b21a6cb6b24ace31ffa9f13107e40bdc4f6d28932b6f892699a0943c953a"
 metafile = true
