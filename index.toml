@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "1eea6184074b621150f809093622aa5ac45267c587447c35d7c24230ac61eae4"
+hash = "81ff31e1217b148fa6112c9d1676cf73730887232645b6fe27545e8cd0421f6f"
 metafile = true
 
 [[files]]
@@ -600,12 +600,12 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "bb0ca948c54f17a0b759729bd5a7ccce4a7aa34cb1ef6f47ab1ba676cb10ccb3"
+hash = "7489ffa88ea89b40e3cd4c6fcc34af2efaebc849699971cf673428aa42abc174"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "bb51c192ee643baa42c052b3695c5750f6cb01f444fb00783fb814f77668f6ef"
+hash = "a20da06b37ff4fd62465247f42a5a63f5ca507e081e50a97b52bf7afb69135dc"
 metafile = true
 
 [[files]]
