@@ -549,6 +549,11 @@ hash = "131d44af62afd1726fbddaddafb841465183e7e1d816f6e7849eedd5a04d3425"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
+metafile = true
+
+[[files]]
 file = "mods/paladins-furniture.pw.toml"
 hash = "65df862c354cbb269a607fdbb88c6435110d91307a614180d13d5d89ec36a82e"
 metafile = true
