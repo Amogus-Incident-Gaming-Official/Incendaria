@@ -1,6 +1,6 @@
 name = "incendaria"
 author = "AIGO Members"
-version = "1.0.0"
+version = "1.8.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
