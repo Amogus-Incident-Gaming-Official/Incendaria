@@ -1,0 +1,7 @@
+name = "requiemcrutch"
+filename = "RequiemCrutch-1.0.0+1.19.2.jar"
+
+[download]
+url = "https://github.com/xniki119x/RequiemCrutch/releases/download/1.19.2/RequiemCrutch-1.0.0+1.19.2.jar"
+hash-format = "sha256"
+hash = "1967957d59c9a6f6e46f5d7ee2e2fc48a847bfdbdbd062751068d92909e217ee"

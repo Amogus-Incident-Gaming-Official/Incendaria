@@ -1,0 +1,13 @@
+name = "Effortless"
+filename = "effortless-fabric-1.19.2-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EF68hjiy/versions/odM38cFo/effortless-fabric-1.19.2-2.0.0.jar"
+hash-format = "sha1"
+hash = "78fea5241577e2f660b6ee0f01eddd0d648f48c9"
+
+[update]
+[update.modrinth]
+mod-id = "EF68hjiy"
+version = "odM38cFo"

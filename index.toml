@@ -49,11 +49,6 @@ hash = "cf065f8d824fd3bc894893e0fbea250da818637fdab9c1e91b26203b4cd38508"
 metafile = true
 
 [[files]]
-file = "mods/azuredooms-angel-ring.pw.toml"
-hash = "58f9f1b54186f194e3c8d21aeaecca5834ce0721766953ed87906735cefbea84"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "f7f855e3420a048cbc0e54f85e1e2e881fb5919d43bf347e6c807ff0a55ee32f"
 metafile = true
@@ -94,6 +89,11 @@ hash = "07b51aaf48c36c926d162e7ec602550d386d64a54831cfe45ce280da207a1f68"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "5f3ca16d00949c3630dec43f6bba5aa8751a6f232c75414d1137298accd056e8"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "6e9411fa2a1b87951b2dc13c10fb0db04c698a71c5b496e4a8464d9b0c2e3b78"
 metafile = true
@@ -101,6 +101,16 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "24b5063f9191315206e3ef27c7b66864024e7411edf78c5742818d42b078cf01"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "21f5bdeb5ee7d9c7c3276345065bf67087ecebed28e8b4186c626465e97d5a7e"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "48aae867ea4211efa069c4f9fc182c1d53060339da6a94960bf2c3967f1c9bbd"
 metafile = true
 
 [[files]]
@@ -186,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "5c3132033d56f253828804c1d01787d2d50dda82079ec48bb4cc370e4302ccd5"
+metafile = true
+
+[[files]]
+file = "mods/effortless.pw.toml"
+hash = "084b651d67f5991787b98c23ef243639fec39d365592b3bfb9a50bb778835fb5"
 metafile = true
 
 [[files]]
@@ -399,6 +414,11 @@ hash = "d13331fd3b3c06b24c53f40d49e7d8726675e0800837aafb66f10a6b28223ae9"
 metafile = true
 
 [[files]]
+file = "mods/kibe.pw.toml"
+hash = "f674207d6207583a7ac5dd0b382933772d276723b9592fc0c9cc390b891e55e2"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "b9302a34e6e8c8ff668be49843ede7e92b81bcad51c3ff09d766ef4bb3056c2c"
 metafile = true
@@ -466,11 +486,6 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "7dc0119dac2246a00a28a73c128bc2e5275fa8c61dfb6024ef75476691c95a00"
-metafile = true
-
-[[files]]
-file = "mods/mob-lassos.pw.toml"
-hash = "9261002cebf9b3938853807bee559157e17fe597e7c597166acd65489ccce1a9"
 metafile = true
 
 [[files]]
@@ -579,6 +594,11 @@ hash = "38b06bc46394398079fb38eb4ae1a8649fc7b32d44c07997b86b1d62c7bd7136"
 metafile = true
 
 [[files]]
+file = "mods/projectsavethepets.pw.toml"
+hash = "b4431b2a14519455d564ec3105a7a603a88f4820a12c92ab48081474a20936e6"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "a7a2599342362f2240a4f1fee7f090d9920a3af4c7937fc6237787e7e0aa05d0"
 metafile = true
@@ -611,6 +631,11 @@ metafile = true
 [[files]]
 file = "mods/requiem.pw.toml"
 hash = "b8d371773c01709173b5afea482b21fdee57137f35c3d7f958083375461e7960"
+metafile = true
+
+[[files]]
+file = "mods/requiemcrutch.pw.toml"
+hash = "1d38b419293368b789939d766c08e4c22c779084b38c316d97ad6f8382b32083"
 metafile = true
 
 [[files]]
@@ -666,6 +691,11 @@ metafile = true
 [[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "b102fa73df07ca0c3ee97932011ef26007b163d75507b733b5e7408157d45a8a"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "8ce6dae0860f63a4ef43525815e9d992efe5e1e7735d0e2202894df44b649bdd"
 metafile = true
 
 [[files]]
