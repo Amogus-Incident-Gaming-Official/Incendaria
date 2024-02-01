@@ -224,11 +224,6 @@ hash = "c1783a2ee04c5b7d8c5c075c1b65e7d6281f16a13fff11444546b9a4d492795b"
 metafile = true
 
 [[files]]
-file = "mods/estrogen.pw.toml"
-hash = "173dba5d92a160e0d726cff3ac5fab51efa40e08a4f25f0a5d7d97f81a21db96"
-metafile = true
-
-[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "7eccd75242e5b346dbb352d972cb2d61481ac0ddecd02e430492eae3eead1e5a"
 metafile = true
@@ -541,11 +536,6 @@ metafile = true
 [[files]]
 file = "mods/originstweaks.pw.toml"
 hash = "131d44af62afd1726fbddaddafb841465183e7e1d816f6e7849eedd5a04d3425"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "a33dc83adabd87e684d5fb5bde601bc164d46671043ebb87ab6e7948f847c4be"
 metafile = true
 
 [[files]]
