@@ -234,6 +234,11 @@ hash = "c1783a2ee04c5b7d8c5c075c1b65e7d6281f16a13fff11444546b9a4d492795b"
 metafile = true
 
 [[files]]
+file = "mods/estrogen.pw.toml"
+hash = "fac7f9a56a3052955268eac0204f461f4362e72528839d1e04552fae13157663"
+metafile = true
+
+[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "7eccd75242e5b346dbb352d972cb2d61481ac0ddecd02e430492eae3eead1e5a"
 metafile = true
