@@ -114,6 +114,11 @@ hash = "48aae867ea4211efa069c4f9fc182c1d53060339da6a94960bf2c3967f1c9bbd"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "03be6a990d9064aa72d501842aea783b2d9abeddeff321a81bf423feeca130c6"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "e4444324c80dc0e9d31545740ea098ad145e353a1e21eddab7a87b3f2cf00acf"
 metafile = true
@@ -125,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "1e6a4b6d30ce124ebeda584e877b66d0e757860cad0286d7d20d7819c1e37c53"
+hash = "19276358b66db4b71d534bb7024a82dbf2bef87a95b604319c45fbfa82f5e24f"
 metafile = true
 
 [[files]]
@@ -196,11 +201,6 @@ metafile = true
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "5c3132033d56f253828804c1d01787d2d50dda82079ec48bb4cc370e4302ccd5"
-metafile = true
-
-[[files]]
-file = "mods/effortless.pw.toml"
-hash = "084b651d67f5991787b98c23ef243639fec39d365592b3bfb9a50bb778835fb5"
 metafile = true
 
 [[files]]
