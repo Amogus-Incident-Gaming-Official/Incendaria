@@ -409,11 +409,6 @@ hash = "d13331fd3b3c06b24c53f40d49e7d8726675e0800837aafb66f10a6b28223ae9"
 metafile = true
 
 [[files]]
-file = "mods/kibe.pw.toml"
-hash = "f674207d6207583a7ac5dd0b382933772d276723b9592fc0c9cc390b891e55e2"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "b9302a34e6e8c8ff668be49843ede7e92b81bcad51c3ff09d766ef4bb3056c2c"
 metafile = true
